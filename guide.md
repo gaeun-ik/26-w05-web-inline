@@ -195,7 +195,7 @@ nav 안의 .nav-links 메뉴를, 화면이 좁아지면
    git push origin gh-pages
    ```
 3. 저장소 **Settings → Pages**에서 배포 브랜치를 `gh-pages`로 확인
-4. 배포된 URL 접속해서 정상 동작 확인
+4. [배포된 웹사이트](https://gaeun-ik.github.io/26-w05-web-inline/)에 접속해 정상 동작 확인
 
 ## 7️⃣ 제출 (Pull Request)
 

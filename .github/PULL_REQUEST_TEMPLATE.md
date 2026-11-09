@@ -9,3 +9,5 @@
 - [ ] GitHub Pages(`gh-pages` 브랜치) 배포 링크가 정상 동작해요
 
 ## 배포 링크
+
+https://gaeun-ik.github.io/26-w05-web-inline/

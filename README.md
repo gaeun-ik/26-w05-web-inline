@@ -24,7 +24,7 @@ nav (앵커링크: Hero / Services / About / Contact)
 
 ## 배포
 
-GitHub Pages로 배포합니다. 자세한 방법은 `guide.md`를 참고하세요.
+GitHub Pages로 배포합니다. [시큐닥터 웹사이트](https://gaeun-ik.github.io/26-w05-web-inline/)에서 확인할 수 있으며, 자세한 방법은 `guide.md`를 참고하세요.
 
 ## 제출
 
